@@ -1,0 +1,332 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tyron\\source\\repos\\aspAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|c:\\users\\tyron\\source\\repos\\aspapi\\controllers\\servicerequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|solutionrelative:controllers\\servicerequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|c:\\users\\tyron\\source\\repos\\aspapi\\services\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|solutionrelative:services\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|c:\\users\\tyron\\source\\repos\\aspapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|c:\\users\\tyron\\source\\repos\\aspapi\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|solutionrelative:controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|c:\\users\\tyron\\source\\repos\\aspapi\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|solutionrelative:models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|c:\\users\\tyron\\source\\repos\\aspapi\\models\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|solutionrelative:models\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|c:\\users\\tyron\\source\\repos\\aspapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|c:\\users\\tyron\\source\\repos\\aspapi\\migrations\\20241018043920_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|solutionrelative:migrations\\20241018043920_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|c:\\users\\tyron\\source\\repos\\aspapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|c:\\users\\tyron\\source\\repos\\aspapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|c:\\users\\tyron\\source\\repos\\aspapi\\migrations\\20241018080102_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|solutionrelative:migrations\\20241018080102_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|c:\\users\\tyron\\source\\repos\\aspapi\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|solutionrelative:migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|c:\\users\\tyron\\source\\repos\\aspapi\\aspapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|solutionrelative:aspapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|c:\\users\\tyron\\source\\repos\\aspapi\\aspapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{10370E3B-934B-4A9C-92E4-DEC243821F25}|aspAPI.csproj|solutionrelative:aspapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 15,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1257226031:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmsService.cs",
+              "DocumentMoniker": "C:\\Users\\tyron\\source\\repos\\aspAPI\\services\\SmsService.cs",
+              "RelativeDocumentMoniker": "services\\SmsService.cs",
+              "ToolTip": "C:\\Users\\tyron\\source\\repos\\aspAPI\\services\\SmsService.cs",
+              "RelativeToolTip": "services\\SmsService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:55:54.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tyron\\source\\repos\\aspAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tyron\\source\\repos\\aspAPI\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:24:48.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\tyron\\source\\repos\\aspAPI\\Controllers\\ServiceRequestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiceRequestController.cs",
+              "ToolTip": "C:\\Users\\tyron\\source\\repos\\aspAPI\\Controllers\\ServiceRequestController.cs",
+              "RelativeToolTip": "Controllers\\ServiceRequestController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:51:10.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tyron\\source\\repos\\aspAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\tyron\\source\\repos\\aspAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T04:12:01.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Clients.cs",
+              "DocumentMoniker": "C:\\Users\\tyron\\source\\repos\\aspAPI\\models\\Clients.cs",
+              "RelativeDocumentMoniker": "models\\Clients.cs",
+              "ToolTip": "C:\\Users\\tyron\\source\\repos\\aspAPI\\models\\Clients.cs",
+              "RelativeToolTip": "models\\Clients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:44:02.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\tyron\\source\\repos\\aspAPI\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\tyron\\source\\repos\\aspAPI\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:09:54.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241018043920_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\tyron\\source\\repos\\aspAPI\\Migrations\\20241018043920_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241018043920_Initial.cs",
+              "ToolTip": "C:\\Users\\tyron\\source\\repos\\aspAPI\\Migrations\\20241018043920_Initial.cs",
+              "RelativeToolTip": "Migrations\\20241018043920_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:39:21.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\tyron\\source\\repos\\aspAPI\\data\\DataContext.cs",
+              "RelativeDocumentMoniker": "data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\tyron\\source\\repos\\aspAPI\\data\\DataContext.cs",
+              "RelativeToolTip": "data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:07:35.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\tyron\\source\\repos\\aspAPI\\models\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "models\\ServiceRequest.cs",
+              "ToolTip": "C:\\Users\\tyron\\source\\repos\\aspAPI\\models\\ServiceRequest.cs",
+              "RelativeToolTip": "models\\ServiceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:52:38.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\tyron\\source\\repos\\aspAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\tyron\\source\\repos\\aspAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAABRwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T03:37:52.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241018080102_Customer.cs",
+              "DocumentMoniker": "C:\\Users\\tyron\\source\\repos\\aspAPI\\Migrations\\20241018080102_Customer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241018080102_Customer.cs",
+              "ToolTip": "C:\\Users\\tyron\\source\\repos\\aspAPI\\Migrations\\20241018080102_Customer.cs",
+              "RelativeToolTip": "Migrations\\20241018080102_Customer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:01:03.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\tyron\\source\\repos\\aspAPI\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\tyron\\source\\repos\\aspAPI\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:00:10.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "aspAPI.http",
+              "DocumentMoniker": "C:\\Users\\tyron\\source\\repos\\aspAPI\\aspAPI.http",
+              "RelativeDocumentMoniker": "aspAPI.http",
+              "ToolTip": "C:\\Users\\tyron\\source\\repos\\aspAPI\\aspAPI.http",
+              "RelativeToolTip": "aspAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-18T03:18:52.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "aspAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\tyron\\source\\repos\\aspAPI\\aspAPI.csproj",
+              "RelativeDocumentMoniker": "aspAPI.csproj",
+              "ToolTip": "C:\\Users\\tyron\\source\\repos\\aspAPI\\aspAPI.csproj",
+              "RelativeToolTip": "aspAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T03:24:58.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 510,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

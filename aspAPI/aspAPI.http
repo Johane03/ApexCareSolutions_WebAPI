@@ -1,0 +1,14 @@
+@aspAPI_HostAddress = https://localhost:7075
+
+GET {{aspAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{aspAPI_HostAddress}}/weatherforecast
+
+###
+
+GET {{aspAPI_HostAddress}}/api/superhero
+
+###
