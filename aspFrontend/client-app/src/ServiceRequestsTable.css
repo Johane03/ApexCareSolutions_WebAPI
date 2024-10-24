@@ -1,0 +1,168 @@
+#serviceRequests {
+  margin-top: 20px;
+}
+
+#serviceRequestsHeading, #clientDetailsHeading, #sendDetailsHeading, #editDetailsHeading {
+  color: #1E4CA1;
+text-align: center;
+margin-top: 3%;
+}
+
+.clientDetails {
+  background-color: #1E4CA1;
+  color: white;
+  border-style: none;
+}
+
+table {
+  width: 80%;
+  border-collapse: separate;  
+  border-spacing: 0; 
+  border-radius: 15px;  
+  overflow: hidden;  
+  margin-bottom: 20px;  
+  margin: auto;
+}
+  
+table, th, td {
+  border: 1px solid black;
+}
+  
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+  
+th {
+  background-color: #598FF2;
+  color: white;
+}
+  
+tr:hover {
+  background-color: #e0e0e0;  
+  cursor: pointer;  
+}
+  
+form {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  height: 20%;
+  margin-bottom: 30px;
+}
+
+#searchBox {
+  width: 20%;
+  height: 30px;
+  text-align: center;
+  margin: auto;
+  padding: 5px;
+  margin-left: 150px;
+  margin-bottom: 10px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+
+#actionButton {
+  background: #1E4CA1;
+  border-radius: 30px;
+  text-align: center;
+  font-size: medium;
+  color: white;
+  padding: 2px 10px;
+}
+
+#actionButton:hover {
+  background-color: #598FF2;
+  color: black;
+  border: 2px solid black;
+}
+
+input {
+  width: 37%;
+  height: 30px;
+  text-align: center;
+  font-size: medium;
+  margin: auto;
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+
+.sendDetails button {
+  width: 40%;
+  height: 50px;
+  text-align: center;
+  margin: auto;
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: #1E4CA1;
+  color: white;
+  font-size: large;
+}
+
+.sendDetails button:hover {
+  background-color: #598FF2;
+  color: black;
+  border: 2px solid black;
+}
+
+.editDetails h3 {
+  margin: 5px 0 0 450px;
+  text-align: left;
+}
+
+.editDetails input {
+  width: 40%;
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.buttonContainer button:first-child {
+  margin-right: 150px;
+}
+
+.buttonContainer button:last-child {
+  margin-left: 10px; 
+}
+
+.editDetails button {
+  width: 15%;
+  height: 50px;
+  text-align: center;
+  margin: auto;
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: #1E4CA1;
+  color: white;
+  font-size: large;
+}
+
+.editDetails button:hover {
+  background-color: #598FF2;
+  color: black;
+  border: 2px solid black;
+}
+
+#jobHeading {
+  color: #1E4CA1;
+}
+
+#detailsHeading {
+  color: #1E4CA1;
+  text-align: center;
+  margin-top: 3%;
+}
+

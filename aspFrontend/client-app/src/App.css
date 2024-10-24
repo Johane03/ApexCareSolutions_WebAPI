@@ -1,0 +1,91 @@
+body {
+  font-family:sans-serif;
+  height: 100vh;
+}
+
+h1 {
+  text-align: center;
+  padding: 60px;
+}
+
+header {
+  background-color: #1E4CA1;
+  color: white;
+  width: 100%;
+  height: 150px;
+}
+
+header h1 {
+  margin-top: 0;
+  color: white;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+  position: relative;  
+}
+
+.nav h1 {
+  margin: 0;
+  text-align: center; 
+}
+
+.dashboard-button {
+  position: absolute;  
+  left: 20px;  
+  top: 50%;  
+  transform: translateY(-50%);  
+  background: none;  
+  border: none;  
+  padding: 0;  
+  cursor: pointer;  
+}
+
+.dashboard-button h2{
+  color: white; ;
+}
+
+.dashboard-container {
+  display: flex;
+  flex-direction: column; 
+  align-items: center; 
+  justify-content: center; 
+  background: linear-gradient(90deg, rgba(89, 143, 242, 0.15) 0%, rgba(51.49, 82.73, 140, 0.15) 100%);
+  border-radius: 30px;
+  margin: 10vh;
+  padding: 20px; 
+}
+
+.button-group {
+  display: flex; 
+  gap: 20px; 
+  margin-bottom: 20px;
+}
+
+.button-group button{
+  background-color: #1E4CA1;
+  color: white;
+  border-radius: 30px;
+  border: none;
+  padding: 0px 60px;
+  width: 400px;
+}
+
+.button-group button:hover {
+  background-color: #598FF2;
+  color: black;
+  border: 2px solid black;
+}
+
+.logo {
+  margin-bottom: 30px;
+  margin-top: 30px;
+  height: auto;
+  width: 400px;
+}
+
+#jobListDiv {
+  margin-top: 2%;
+}
