@@ -16,7 +16,7 @@
 3. Check if `ApexCareSolutionsDB` is listed under your `SQL Server` > `Databases`. This confirms that your database is connected.
 4. Run the API application in **Visual Studio** by selecting `https://localhost:{port}` from the debug options.
 
-   ![img.png](img.png)
+   ![image](https://github.com/user-attachments/assets/4199f74d-48c5-435b-9280-d2cccdc3b47b)
 
    > **Note:** 
    > A Swagger UI will open in your browser. You can ignore this as it is just to test the connection between your API and database.
