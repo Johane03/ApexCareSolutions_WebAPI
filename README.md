@@ -1,5 +1,4 @@
 # ApexCareSolutions_WebAPI
-# ApexCareSolutions_WebAPI
 
 ## Prerequisites:
 - **SQL Server Management Studio (SSMS)**: Ensure SSMS is installed to manage your database.
